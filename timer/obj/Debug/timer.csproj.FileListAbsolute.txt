@@ -1,0 +1,10 @@
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\bin\Debug\timer.exe.config
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\bin\Debug\timer.exe
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\bin\Debug\timer.pdb
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.exe
+C:\Users\Eren\Desktop\Gorsel Programlama\timer\timer\obj\Debug\timer.pdb
