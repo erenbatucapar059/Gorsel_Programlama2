@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.exe.config
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.exe
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\bin\Debug\Hafta2.pdb
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.MainForm.resources
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.Properties.Resources.resources
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.exe
+C:\Users\lab_c\source\repos\Hafta2\Hafta2\obj\Debug\Hafta2.pdb

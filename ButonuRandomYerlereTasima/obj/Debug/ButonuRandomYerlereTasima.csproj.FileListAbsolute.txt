@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\bin\Debug\ButonuRandomYerlereTasima.exe.config
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\bin\Debug\ButonuRandomYerlereTasima.exe
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\bin\Debug\ButonuRandomYerlereTasima.pdb
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.MainForm.resources
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.Properties.Resources.resources
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.exe
+C:\Users\lab_c\source\repos\Hafta2\ButonuRandomYerlereTasima\obj\Debug\ButonuRandomYerlereTasima.pdb

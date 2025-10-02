@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\Desktop\\Hafta2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52D950-CDA0-464F-8C38-5B6CA878F708}|MouseEvents\\MouseEvents.csproj|c:\\users\\eren\\desktop\\hafta2\\mouseevents\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C52D950-CDA0-464F-8C38-5B6CA878F708}|MouseEvents\\MouseEvents.csproj|solutionrelative:mouseevents\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C52D950-CDA0-464F-8C38-5B6CA878F708}|MouseEvents\\MouseEvents.csproj|C:\\Users\\Eren\\Desktop\\Hafta2\\mouseevents\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C52D950-CDA0-464F-8C38-5B6CA878F708}|MouseEvents\\MouseEvents.csproj|solutionrelative:mouseevents\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F70EAA2-30A7-4BAE-A3D8-384AF6C9DED3}|MouseIleButonTasima\\MouseIleButonTasima.csproj|C:\\Users\\Eren\\Desktop\\Hafta2\\mouseilebutontasima\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F70EAA2-30A7-4BAE-A3D8-384AF6C9DED3}|MouseIleButonTasima\\MouseIleButonTasima.csproj|solutionrelative:mouseilebutontasima\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F70EAA2-30A7-4BAE-A3D8-384AF6C9DED3}|MouseIleButonTasima\\MouseIleButonTasima.csproj|C:\\Users\\Eren\\Desktop\\Hafta2\\mouseilebutontasima\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F70EAA2-30A7-4BAE-A3D8-384AF6C9DED3}|MouseIleButonTasima\\MouseIleButonTasima.csproj|solutionrelative:mouseilebutontasima\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseEvents\\MainForm.cs",
+              "RelativeDocumentMoniker": "MouseEvents\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseEvents\\MainForm.cs",
+              "RelativeToolTip": "MouseEvents\\MainForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:03:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseEvents\\MainForm.cs",
+              "RelativeDocumentMoniker": "MouseEvents\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseEvents\\MainForm.cs [Design]",
+              "RelativeToolTip": "MouseEvents\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:03:18.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseIleButonTasima\\MainForm.cs",
+              "RelativeDocumentMoniker": "MouseIleButonTasima\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseIleButonTasima\\MainForm.cs",
+              "RelativeToolTip": "MouseIleButonTasima\\MainForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:02:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseIleButonTasima\\MainForm.cs",
+              "RelativeDocumentMoniker": "MouseIleButonTasima\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Eren\\Desktop\\Hafta2\\MouseIleButonTasima\\MainForm.cs [Design]",
+              "RelativeToolTip": "MouseIleButonTasima\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:02:52.821Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 829,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

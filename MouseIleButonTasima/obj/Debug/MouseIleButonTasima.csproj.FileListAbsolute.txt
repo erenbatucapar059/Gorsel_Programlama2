@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\bin\Debug\MouseIleButonTasima.exe.config
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\bin\Debug\MouseIleButonTasima.exe
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\bin\Debug\MouseIleButonTasima.pdb
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.MainForm.resources
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.Properties.Resources.resources
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.exe
+C:\Users\lab_c\source\repos\Hafta2\MouseIleButonTasima\obj\Debug\MouseIleButonTasima.pdb

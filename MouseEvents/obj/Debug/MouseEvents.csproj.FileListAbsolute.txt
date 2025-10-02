@@ -1,0 +1,11 @@
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\bin\Debug\MouseEvents.exe.config
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\bin\Debug\MouseEvents.exe
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\bin\Debug\MouseEvents.pdb
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.csproj.AssemblyReference.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.MainForm.resources
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.Properties.Resources.resources
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.csproj.GenerateResource.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.exe
+C:\Users\lab_c\source\repos\Hafta2\MouseEvents\obj\Debug\MouseEvents.pdb
